@@ -3,16 +3,16 @@
 <h3 align="center">Product Manager | Lovely Professional University | Building AI-Powered Products</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Product+Manager;Building+User-Centric+Products;Product+Strategy+%7C+User+Research+%7C+Growth;AI-Powered+Product+Development&font=Fira+Code&center=true&width=600&height=50" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Product+Manager;Building+User-Centric+Products;Product+Strategy+%7C+User+Research+%7C+Growth;AI-Powered+Product+Development&font=Fira+Code&center=true&width=500&height=50" />
 </p>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-3287391a7/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gaurav0801Rai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://gaurav-portfolio-gk.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:digitally.gaurav08@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googlecloud&logoColor=white)](./Gaurav_Kumar_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-3287391a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav0801Rai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://gaurav-portfolio-gk.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitally.gaurav08@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/Gaurav0801Rai/Gaurav0801Rai/raw/main/Gaurav_Kumar_CV.pdf)
 
 </div>
 
