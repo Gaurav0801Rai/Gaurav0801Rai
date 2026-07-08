@@ -2,33 +2,7 @@
 
 Building AI-Powered Products • Product Strategy • User Research
 
-<div align="center">
-
-[LINKEDIN](https://www.linkedin.com/in/gaurav-kumar-3287391a7/) | [GITHUB](https://github.com/Gaurav0801Rai) | [EMAIL](mailto:digitally.gaurav08@gmail.com) | [CONTACT ME](https://gaurav-portfolio-gk.vercel.app/) | [RESUME](./resume.pdf) | [DOWNLOAD CV](./resume.pdf) | [PORTFOLIO](https://gaurav-portfolio-gk.vercel.app/) | [WEBSITE](https://gaurav-portfolio-gk.vercel.app/)
-
-</div>
-
----
-
-<h3 align="center">Product Manager | Lovely Professional University | Building AI-Powered Products</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Product+Manager;Building+User-Centric+Products;Product+Strategy+%7C+User+Research+%7C+Growth;AI-Powered+Product+Development&font=Fira+Code&center=true&width=600&height=50" alt="Typing SVG"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Product Manager** passionate about building products that solve real problems and delight users.
-
-- 🎓 Master of Computer Applications at **Lovely Professional University**
-- 🚀 Product Manager with hands-on experience in AI-assisted product development
-- 🔍 Strong in **User Research, Product Discovery & MVP Planning**
-- 🤖 Building **AI-powered products using LLMs, RAG and Agentic Workflows**
-- 📊 Data-driven approach using **metrics, analytics and user behavior**
-- 🌐 Exploring **AI-enabled products & scalable systems**
-- 📍 Prayagraj, Uttar Pradesh
+| [LINKEDIN](https://www.linkedin.com/in/gaurav-kumar-3287391a7/) | [GITHUB](https://github.com/Gaurav0801Rai) | [EMAIL](mailto:digitally.gaurav08@gmail.com) | [CONTACT ME](https://gaurav-portfolio-gk.vercel.app/) | [RESUME](./resume.pdf) | [DOWNLOAD CV](./resume.pdf) | [PORTFOLIO](https://gaurav-portfolio-gk.vercel.app/) | [WEBSITE](https://gaurav-portfolio-gk.vercel.app/) |
 
 ---
 
@@ -52,6 +26,19 @@ I'm a **Product Manager** passionate about building products that solve real pro
 - ChatGPT, Claude, LLM APIs
 - Next.js, Firebase, Groq
 - Google Docs MCP, Gmail MCP
+
+---
+
+## 👨‍💻 About Me
+
+I specialize in **breaking down complex workflows, identifying inefficiencies, and designing structured product solutions**.
+
+- 🔍 Strong in **root cause analysis & system thinking**
+- ⚡ **Improved automation workflows** in production systems
+- 📊 **Data-driven approach** using SLA, resolution metrics, and user behavior
+- 🤖 **Exploring AI-enabled products & scalable systems**
+- 🎓 Master of Computer Applications at **Lovely Professional University**
+- 📍 Prayagraj, Uttar Pradesh
 
 ---
 
@@ -122,24 +109,6 @@ I'm a **Product Manager** passionate about building products that solve real pro
 - Created wireframes and interactive prototypes
 - Defined MVP scope and user journeys
 - Focused on resident, visitor and security workflows
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav0801Rai&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav0801Rai&theme=tokyonight" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav0801Rai&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gaurav0801Rai&theme=onestar&column=6" alt="GitHub Trophies"/>
-</p>
 
 ---
 
