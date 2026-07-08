@@ -1,4 +1,14 @@
-## Hi, I'm Gaurav Kumar 👋
+## Hi 👋, I'm Gaurav Kumar
+
+Building AI-Powered Products • Product Strategy • User Research
+
+<div align="center">
+
+[LINKEDIN](https://www.linkedin.com/in/gaurav-kumar-3287391a7/) | [GITHUB](https://github.com/Gaurav0801Rai) | [EMAIL](mailto:digitally.gaurav08@gmail.com) | [CONTACT ME](https://gaurav-portfolio-gk.vercel.app/) | [RESUME](./resume.pdf) | [DOWNLOAD CV](./resume.pdf) | [PORTFOLIO](https://gaurav-portfolio-gk.vercel.app/) | [WEBSITE](https://gaurav-portfolio-gk.vercel.app/)
+
+</div>
+
+---
 
 <h3 align="center">Product Manager | Lovely Professional University | Building AI-Powered Products</h3>
 
@@ -8,29 +18,16 @@
 
 ---
 
-## 🔗 Quick Links
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://gaurav-portfolio-gk.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-3287391a7/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav0801Rai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitally.gaurav08@gmail.com)
-[![CV/Resume](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](./resume.pdf)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a **Product Manager** passionate about building products that solve real problems and delight users.
 
 - 🎓 Master of Computer Applications at **Lovely Professional University**
 - 🚀 Product Manager with hands-on experience in AI-assisted product development
-- 🔍 Passionate about User Research, Product Discovery, MVP Planning & Product Strategy
-- 🤖 Building AI-powered products using LLMs, RAG and Agentic Workflows
-- 📈 Exploring Product Growth, Metrics and Experimentation
+- 🔍 Strong in **User Research, Product Discovery & MVP Planning**
+- 🤖 Building **AI-powered products using LLMs, RAG and Agentic Workflows**
+- 📊 Data-driven approach using **metrics, analytics and user behavior**
+- 🌐 Exploring **AI-enabled products & scalable systems**
 - 📍 Prayagraj, Uttar Pradesh
 
 ---
