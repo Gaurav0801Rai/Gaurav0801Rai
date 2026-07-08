@@ -3,8 +3,22 @@
 <h3 align="center">Product Manager | Lovely Professional University | Building AI-Powered Products</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Product+Manager;Building+User-Centric+Products;Product+Strategy+%7C+User+Research+%7C+Growth;AI-Powered+Product+Development&font=Fira+Code&center=true&width=500&height=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Product+Manager;Building+User-Centric+Products;Product+Strategy+%7C+User+Research+%7C+Growth;AI-Powered+Product+Development&font=Fira+Code&center=true&width=600&height=50" alt="Typing SVG"/>
 </p>
+
+---
+
+## 🔗 Quick Links
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://gaurav-portfolio-gk.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-3287391a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav0801Rai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitally.gaurav08@gmail.com)
+[![CV/Resume](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](./resume.pdf)
+
+</div>
 
 ---
 
@@ -50,6 +64,7 @@ I'm a **Product Manager** passionate about building products that solve real pro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -116,9 +131,9 @@ I'm a **Product Manager** passionate about building products that solve real pro
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav0801Rai&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav0801Rai&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav0801Rai&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurav0801Rai&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav0801Rai&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav0801Rai&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -126,7 +141,7 @@ I'm a **Product Manager** passionate about building products that solve real pro
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gaurav0801Rai&theme=onestar&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gaurav0801Rai&theme=onestar&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -153,18 +168,6 @@ I'm a **Product Manager** passionate about building products that solve real pro
 - Mastering Product Strategy and Growth frameworks
 - Understanding user psychology and behavior design
 - Exploring market expansion strategies
-
----
-
-## 🤝 Let's Connect!
-
-I'd love to discuss product strategy, AI in product development, or collaborate on exciting projects.
-
-**GitHub** → https://github.com/Gaurav0801Rai
-
-**LinkedIn** → (Add your LinkedIn URL)
-
-**Email** → digitally.gaurav08@gmail.com
 
 ---
 
