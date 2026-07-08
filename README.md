@@ -6,6 +6,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Product+Manager;Building+User-Centric+Products;Product+Strategy+%7C+User+Research+%7C+Growth;AI-Powered+Product+Development&font=Fira+Code&center=true&width=600&height=50" alt="Typing SVG"/>
 </p>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-3287391a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gaurav0801Rai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://gaurav-portfolio-gk.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:digitally.gaurav08@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googlecloud&logoColor=white)](./resume.pdf)
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -110,24 +120,6 @@ I'm a **Product Manager** passionate about building products that solve real pro
 - Created wireframes and interactive prototypes
 - Defined MVP scope and user journeys
 - Focused on resident, visitor and security workflows
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav0801Rai&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav0801Rai&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav0801Rai&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gaurav0801Rai&theme=onestar&no-frame=true"/>
-</p>
 
 ---
 
