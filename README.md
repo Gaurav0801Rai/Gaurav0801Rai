@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gaurav0801Rai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://gaurav-portfolio-gk.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:digitally.gaurav08@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googlecloud&logoColor=white)](./resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googlecloud&logoColor=white)](./Gaurav_Kumar_CV.pdf)
 
 </div>
 
