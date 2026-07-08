@@ -1,8 +1,23 @@
-## Hi 👋, I'm Gaurav Kumar
+## Hi, I'm Gaurav Kumar 👋
 
-Building AI-Powered Products • Product Strategy • User Research
+<h3 align="center">Product Manager | Lovely Professional University | Building AI-Powered Products</h3>
 
-| [LINKEDIN](https://www.linkedin.com/in/gaurav-kumar-3287391a7/) | [GITHUB](https://github.com/Gaurav0801Rai) | [EMAIL](mailto:digitally.gaurav08@gmail.com) | [CONTACT ME](https://gaurav-portfolio-gk.vercel.app/) | [RESUME](./resume.pdf) | [DOWNLOAD CV](./resume.pdf) | [PORTFOLIO](https://gaurav-portfolio-gk.vercel.app/) | [WEBSITE](https://gaurav-portfolio-gk.vercel.app/) |
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Product+Manager;Building+User-Centric+Products;Product+Strategy+%7C+User+Research+%7C+Growth;AI-Powered+Product+Development&font=Fira+Code&center=true&width=600&height=50" alt="Typing SVG"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Product Manager** passionate about building products that solve real problems and delight users.
+
+- 🎓 Master of Computer Applications at **Lovely Professional University**
+- 🚀 Product Manager with hands-on experience in AI-assisted product development
+- 🔍 Passionate about User Research, Product Discovery, MVP Planning & Product Strategy
+- 🤖 Building AI-powered products using LLMs, RAG and Agentic Workflows
+- 📈 Exploring Product Growth, Metrics and Experimentation
+- 📍 Prayagraj, Uttar Pradesh
 
 ---
 
@@ -29,26 +44,12 @@ Building AI-Powered Products • Product Strategy • User Research
 
 ---
 
-## 👨‍💻 About Me
-
-I specialize in **breaking down complex workflows, identifying inefficiencies, and designing structured product solutions**.
-
-- 🔍 Strong in **root cause analysis & system thinking**
-- ⚡ **Improved automation workflows** in production systems
-- 📊 **Data-driven approach** using SLA, resolution metrics, and user behavior
-- 🤖 **Exploring AI-enabled products & scalable systems**
-- 🎓 Master of Computer Applications at **Lovely Professional University**
-- 📍 Prayagraj, Uttar Pradesh
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -112,6 +113,24 @@ I specialize in **breaking down complex workflows, identifying inefficiencies, a
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurav0801Rai&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav0801Rai&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav0801Rai&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Gaurav0801Rai&theme=onestar&no-frame=true"/>
+</p>
+
+---
+
 ## 📜 Certifications & Learning
 
 - Systems Thinking & Mapping Outcomes — NextLeap
@@ -134,6 +153,18 @@ I specialize in **breaking down complex workflows, identifying inefficiencies, a
 - Mastering Product Strategy and Growth frameworks
 - Understanding user psychology and behavior design
 - Exploring market expansion strategies
+
+---
+
+## 🤝 Let's Connect!
+
+I'd love to discuss product strategy, AI in product development, or collaborate on exciting projects.
+
+**GitHub** → https://github.com/Gaurav0801Rai
+
+**LinkedIn** → https://www.linkedin.com/in/gaurav-kumar-3287391a7/
+
+**Email** → digitally.gaurav08@gmail.com
 
 ---
 
